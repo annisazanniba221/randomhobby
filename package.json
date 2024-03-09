@@ -8,7 +8,7 @@
   },
   "name": "random-hobby-selector",
   "description": "This is a simple npm package that selects a random hobby.",
-  "version": "1.5.3",
+  "version": "1.555.35",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/annisazanniba221/randomhobby.git"
+    "url": "https://github.com/annisazanniba221/randomhobby"
   },
   "author": "",
   "license": "ISC",
